@@ -1,0 +1,9 @@
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\bin\Debug\kuis1.exe
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\bin\Debug\kuis1.pdb
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\bin\Debug\kuis1.xml
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\obj\x86\Debug\kuis1.vbproj.GenerateResource.Cache
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\obj\x86\Debug\kuis1.exe
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\obj\x86\Debug\kuis1.xml
+D:\College\sem_4\pem_visual\kuis1\kuis1\kuis1\obj\x86\Debug\kuis1.pdb
